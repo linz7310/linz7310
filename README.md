@@ -29,8 +29,7 @@
 
 ### Stats
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhong-He&layout=compact&theme=tokyonight)-->
-<!--![](https://github-readme-stats.vercel.app/api?username=yuhong-he&show_icons=true&theme=transparent)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linz7310&show_icons=true&theme=radical)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=linz7310&theme=dracula)
 
