@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Yuhong.
+### Hi there 👋, I'm Yilin Zhang.
 
 - 🏫 I’m a MSc Computer Science student at UCD, Ireland.
 - 🌱 I like to explore the world and I want to learn more technologies.
-- 📫 How to reach me: he@yuhong.me
+- 📫 How to reach me: yilinzhang0731@gmail.com
 
 ### Skill Sets
 
